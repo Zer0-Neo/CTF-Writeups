@@ -10,5 +10,5 @@ Security challenge writeups and penetration testing walkthroughs.
 
 ## 🔗 Find Me
 
-- **TryHackMe:** [ZeroNeo](https://tryhackme.com/p/ZeroNeo)
-- **HackerOne:** [ZeroNeo](https://hackerone.com/ZeroNeo)
+- **TryHackMe:** [Ne0Prime](https://tryhackme.com/p/Ne0Prime)
+- **HackerOne:** [NeoPrime](https://hackerone.com/NeoPrime)
