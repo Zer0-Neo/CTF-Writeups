@@ -8,6 +8,7 @@ Security challenge writeups and penetration testing walkthroughs.
 - [WhyHackMe](TryHackMe/WhyHackMe/) - XSS/SSRF, PCAP Analysis, Backdoor RCE (Medium)
 - [TryHack3M: Subscribe](TryHackMe/TryHack3M_Subscribe/) - JavaScript Analysis, SQLi, Cookie Tampering (Medium)
 - [Bookstore](TryHackMe/Bookstore/) - API Fuzzing, LFI, Binary Reverse Engineering (Medium)
+- [Clocky](TryHackMe/Clocky/) - SSRF, Predictable Tokens, MySQL Privilege Escalation (Medium)
 
 ## 🔗 Find Me
 
