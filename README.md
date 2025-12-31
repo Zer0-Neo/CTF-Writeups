@@ -11,6 +11,7 @@ Security challenge writeups and penetration testing walkthroughs.
 - [Clocky](TryHackMe/Clocky/) - SSRF, Predictable Tokens, MySQL Privilege Escalation (Medium)
 - [Intranet](TryHackMe/Intranet/) - 2FA Bypass, Flask Session Forgery, Path Traversal to RCE (Medium)
 - [Decryptify](TryHackMe/Decryptify/) - Predictable Tokens, Padding Oracle Attack, Encryption Analysis (Medium)
+- [TryPwnMe One](TryHackMe/TryPwnMe_One/) - Buffer Overflow, ROP, ret2libc, Format String, ASLR Bypass (Medium)
 
 ## 🔗 Find Me
 
